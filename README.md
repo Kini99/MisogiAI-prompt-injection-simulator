@@ -22,7 +22,7 @@ The Prompt Injection Simulator is designed to:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone "https://github.com/Kini99/MisogiAI-prompt-injection-simulator"
 cd prompt-injection-simulator
 ```
 
